@@ -35,3 +35,7 @@ URL do curso -> [JavaScript - Validando Formulários](https://cursos.alura.com.b
 ***
 
 ## 03 - Desenvolvendo Validações &#x1F516;
+* Validar os dígitos verificadores do CPF.
+* Transformar fórmulas matemáticas em código.
+* Lidar com datas em JavaScript.
+* Construir comparações de datas para verificar maioridade.
