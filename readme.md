@@ -39,3 +39,13 @@ URL do curso -> [JavaScript - Validando Formulários](https://cursos.alura.com.b
 * Transformar fórmulas matemáticas em código.
 * Lidar com datas em JavaScript.
 * Construir comparações de datas para verificar maioridade.
+
+***
+
+## 04 - Comunicando ao Usuário &#x1F516;
+* Encontrar as validações padrões que existem no JavaScript com o Validity State.
+* Interpretar cada tipo de erro.
+* Criar mensagens customizadas.
+* Remover o comportamento padrão de erro do HTML.
+* Mostrar as mensagens customizadas na página.
+* Salvar dados no localStorage.
