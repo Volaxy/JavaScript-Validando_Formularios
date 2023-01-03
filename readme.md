@@ -20,3 +20,18 @@ URL do curso -> [JavaScript - Validando Formulários](https://cursos.alura.com.b
 * Limitar a quantidade de caracteres em um elemento input.
 * Controlar a quantidade mínima de caracteres do input.
 * Transformar um campo em obrigatório.
+
+***
+
+## 02 - Validando com JS &#x1F516;
+* Utilizar patterns.
+* Criar expressões regulares.
+* Selecionar vários elementos ao mesmo tempo.
+* Construir funções para cada elemento de uma lista.
+* Detectar eventos do usuário.
+* Importar funções de outros arquivos.
+* Verificar CPFs com números repetidos.
+
+***
+
+## 03 - Desenvolvendo Validações &#x1F516;
